@@ -8,3 +8,5 @@ build/
 /x/
 local.properties
 /scrcpy-server
+config.bat
+node_modules
